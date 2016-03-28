@@ -4,5 +4,6 @@ public class Git {
     	  int a=1;
     	  a++;
     	  System.out.println(a);
+    	  System.out.println("hahaha");
       }
 }
